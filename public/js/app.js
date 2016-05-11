@@ -18,6 +18,9 @@ function AppCtrl($scope,	dialogServices, dataServices,$http)	{
 					if(result == "" || result == undefined || result == null) {
 						$scope.showError("Insufficient dataset to predict for given values");
 					} else {
+						if(rtn.data[0].data[0][6] < 0.1) {
+							rtn.data[0].data[0][6] = rtn.data[0].data[0][6] * 10;
+						}
 						$scope.showResults(rtn.data);
 						$scope.predChart(result);
 					}
