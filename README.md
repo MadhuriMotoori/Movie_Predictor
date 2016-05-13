@@ -22,5 +22,6 @@ Forecasts predict that the entertainment industry will grow to over 679 billion 
 http://www-03.ibm.com/software/products/en/spss-neural-networks
 
 http://arxiv.org/pdf/1506.05382.pdf
+
 http://laedc.org/reports/EntertainmentinLA.pdf
 
