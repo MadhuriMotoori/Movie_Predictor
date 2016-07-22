@@ -1,8 +1,8 @@
 # Mov-wiZ
 
 ##Contributors
-Kashyap, Akash
-Motoori, Madhuri
+  Kashyap, Akash
+  Motoori, Madhuri
 
 ##Abstract
 Forecasts predict that the entertainment industry will grow to over 679 billion US dollars in value over the next four years, proving its worth in domestic market. Nearly, 600 movies on an average are produced in Hollywood alone and average success rate is approx. 10 percent. Our tool, helps the producers and directors of the movie industry in decision making process by deciding on the optimal combination of actor, director, genre, runtime of movie and country of release.
