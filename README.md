@@ -1,7 +1,7 @@
-# Mov-wiZ
+# Project Name: Mov-wiZ
 
 ##Contributors
-  Kashyap, Akash
+  Kashyap, Akash  
   Motoori, Madhuri
 
 ##Abstract
